@@ -75,8 +75,8 @@ Advanced SQL project using joins, subqueries, views, and aggregations to perform
 ## 🤝 Connect With Me
 
 📧 **Email:** dwivediaman283@gmail.com  
-💼 **LinkedIn:** [Connect with me on LinkedIn](YOUR_LINKEDIN_URL)  
-🐙 **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+💼 **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/aman-dwivedi-228183262)  
+🐙 **GitHub:** [github.com/YOUR_USERNAME](https://github.com/Aman2dwivedi)
 
 ---
 
