@@ -1,6 +1,6 @@
 # Hi, I'm Aman Dwivedi 👋
 
-### Data Analyst | MIS Executive | Python | SQL | Power BI | Data Science
+### Data Analyst | MIS Executive | Python | SQL | Power BI | Data Science | ML | AI
 
 Welcome to my GitHub! 🚀
 
